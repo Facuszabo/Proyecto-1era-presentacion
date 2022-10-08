@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Error{
+    justify-content: center;
+     background-color: darkslateblue;
+     display: flex;
+     height: auto;
+     width: auto;
+ }
+ .Text{
+    color: white;
+ }
